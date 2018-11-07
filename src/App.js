@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-           Anette var her *LOL*
+           Anette var her *LOL* --> lame
           </a>
         </header>
       </div>
